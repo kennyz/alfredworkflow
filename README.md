@@ -1,4 +1,4 @@
-TaobaoSearch.alfredworkflow
+alfredworkflow by Kenny Zhao
 ===========================
 
-taobao search helper for alfred2 workflow
+TaobaoSearch.alfredworkflows - taobao search helper for alfred2 workflow
